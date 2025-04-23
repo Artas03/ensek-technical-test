@@ -1,0 +1,17 @@
+# Ignore build and debug folders
+bin/
+obj/
+
+# Ignore user-specific settings
+*.user
+*.suo
+
+# Ignore Visual Studio folder
+.vs/
+
+# Ignore local databases and logs
+*.db
+*.log
+
+# Ignore test data files
+*.csv
