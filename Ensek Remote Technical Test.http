@@ -1,0 +1,6 @@
+@Ensek_Remote_Technical_Test_HostAddress = http://localhost:5298
+
+GET {{Ensek_Remote_Technical_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
